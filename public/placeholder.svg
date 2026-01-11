@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A84FF" stop-opacity="0.30"/>
+      <stop offset="0.5" stop-color="#AF52DE" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#34C759" stop-opacity="0.20"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#g)"/>
+  <circle cx="260" cy="220" r="120" fill="#ffffff" opacity="0.22"/>
+  <circle cx="930" cy="460" r="180" fill="#ffffff" opacity="0.16"/>
+  <text x="60" y="610" font-size="44" font-family="system-ui, -apple-system" fill="#111" opacity="0.55">Placeholder Hero Image</text>
+</svg>
